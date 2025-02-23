@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "v14 empty Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "c2rder",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "license": "ISC"
+}
