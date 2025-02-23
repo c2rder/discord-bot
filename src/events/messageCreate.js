@@ -2,10 +2,6 @@ const { Client, Message, PermissionFlagsBits } = require("discord.js");
 
 const config = require("../../config.js")
 
-const Database = require("aixe.db");
-
-const db = new Database();
-
 module.exports = {
 
   name: "messageCreate",
